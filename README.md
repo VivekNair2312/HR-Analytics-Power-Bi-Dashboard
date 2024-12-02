@@ -1,4 +1,4 @@
-# Power_BI_Dashboard
+# HR-Analytics-Power-Bi-Dashboard
 Key Highlights of the Project:
 
 Data Preparation: Leveraged Power Query for seamless data import, cleaning, and processing.
